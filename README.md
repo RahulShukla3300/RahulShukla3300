@@ -72,7 +72,7 @@ Projects include:
 - Improving API integration and database skills
 - Writing cleaner and more maintainable code
 
-## Connect With Me
+## [Connect With Me](https://www.linkedin.com/in/rahul-shuklacse)
 
 I’m always interested in connecting with developers, collaborating on projects and discussing new opportunities.
 
