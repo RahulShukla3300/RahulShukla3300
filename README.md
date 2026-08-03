@@ -46,7 +46,7 @@
 
 ## Featured Projects
 
-### [React Portfolio v1](https://rahulshuklaportfolio.vercel.app)
+### [React Portfolio v3](https://rahulshuklaportfolio.vercel.app)
 
 A deployed personal portfolio built with React and Vite to showcase my skills, selected projects, and contact details.
 
