@@ -11,7 +11,7 @@
 
 ## About Me
 
-- 🔭 I’m improving my deployed **React portfolio v1** and polishing completed JavaScript projects, including **Weather App v1**.
+- 🔭 I’m improving my deployed **React portfolio v4** and polishing completed JavaScript projects, including **Weather App v1**.
 - 🌱 I’m strengthening my skills in **React.js, Node.js, TypeScript and PostgreSQL**.
 - 💼 I’m open to **React.js and Full-Stack Developer opportunities**.
 - 💬 Ask me about **JavaScript, React.js, Node.js, PHP and web development**.
@@ -74,7 +74,7 @@ Projects include:
 
 ## Current Focus
 
-- Improving my deployed React portfolio v1
+- Improving my deployed React portfolio v4
 - Building responsive, accessible web interfaces
 - Creating full-stack applications with React.js and Node.js
 - Expanding API integration and database skills
