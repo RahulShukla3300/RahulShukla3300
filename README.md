@@ -74,7 +74,7 @@ Projects include:
 
 ## Current Focus
 
-- Improving my deployed React portfolio v4
+- Improving my deployed React portfolio v3
 - Building responsive, accessible web interfaces
 - Creating full-stack applications with React.js and Node.js
 - Expanding API integration and database skills
