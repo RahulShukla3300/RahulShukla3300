@@ -2,7 +2,7 @@
 
 # Hi, I'm Rahul Shukla 👋
 
-### Full-Stack Developer building modern, responsive and scalable web applications
+### Full-Stack Developer building modern, responsive, and scalable web applications
 
 [![GitHub](https://img.shields.io/badge/GitHub-RahulShukla3300-181717?style=for-the-badge&logo=github)](https://github.com/RahulShukla3300)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul_Shukla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-shuklacse)
@@ -11,7 +11,7 @@
 
 ## About Me
 
-- 🔭 I’m currently building my **React portfolio** and improving my JavaScript projects.
+- 🔭 I’m currently building my **React portfolio** and polishing completed JavaScript projects, including **Weather App v1**.
 - 🌱 I’m strengthening my skills in **React.js, Node.js, TypeScript and PostgreSQL**.
 - 💼 I’m open to **React.js and Full-Stack Developer opportunities**.
 - 💬 Ask me about **JavaScript, React.js, Node.js, PHP and web development**.
@@ -48,7 +48,7 @@
 
 ### [JavaScript Practice Projects](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project)
 
-A growing collection of hands-on JavaScript projects covering DOM manipulation, event handling, timers, form validation, game logic and API integration.
+A growing collection of hands-on JavaScript projects covering DOM manipulation, event handling, timers, form validation, game logic, and API integration. Weather App v1 is now complete.
 
 Projects include:
 
@@ -60,21 +60,21 @@ Projects include:
 - Guess the Number
 - Random Password Generator
 - To-Do List
-- Weather App
+- Weather App (v1 complete)
 
-**Technologies:** HTML, CSS and JavaScript
+**Technologies:** HTML, CSS, and JavaScript
 
 ## Current Focus
 
 - Completing and deploying my React portfolio
 - Building responsive, accessible web interfaces
 - Creating full-stack applications with React.js and Node.js
-- Improving API integration and database skills
+- Expanding API integration and database skills
 - Writing cleaner and more maintainable code
 
 ## [Connect With Me](https://www.linkedin.com/in/rahul-shuklacse)
 
-I’m always interested in connecting with developers, collaborating on projects and discussing new opportunities.
+I’m always interested in connecting with developers, collaborating on projects, and discussing new opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-shuklacse)
 
