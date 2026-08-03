@@ -11,7 +11,7 @@
 
 ## About Me
 
-- 🔭 I’m currently building my **React portfolio** and polishing completed JavaScript projects, including **Weather App v1**.
+- 🔭 I’m improving my deployed **React portfolio v1** and polishing completed JavaScript projects, including **Weather App v1**.
 - 🌱 I’m strengthening my skills in **React.js, Node.js, TypeScript and PostgreSQL**.
 - 💼 I’m open to **React.js and Full-Stack Developer opportunities**.
 - 💬 Ask me about **JavaScript, React.js, Node.js, PHP and web development**.
@@ -44,7 +44,15 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## Featured Project
+## Featured Projects
+
+### [React Portfolio v1](https://rahulshuklaportfolio.vercel.app)
+
+A deployed personal portfolio built with React and Vite to showcase my skills, selected projects, and contact details.
+
+**Repository:** [My-Portfolio-React](https://github.com/RahulShukla3300/My-Portfolio-React)
+
+**Technologies:** React, Vite, JavaScript, and CSS
 
 ### [JavaScript Practice Projects](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project)
 
@@ -66,7 +74,7 @@ Projects include:
 
 ## Current Focus
 
-- Completing and deploying my React portfolio
+- Improving my deployed React portfolio v1
 - Building responsive, accessible web interfaces
 - Creating full-stack applications with React.js and Node.js
 - Expanding API integration and database skills
