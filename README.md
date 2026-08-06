@@ -6,6 +6,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-RahulShukla3300-181717?style=for-the-badge&logo=github)](https://github.com/RahulShukla3300)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul_Shukla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-shuklacse)
+[![LeetCode](https://img.shields.io/badge/LeetCode-rahulshukla3300-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rahulshukla3300/)
 
 </div>
 
@@ -36,60 +37,3 @@
 ### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-## Featured Projects
-
-### [React Portfolio v3](https://rahulshuklaportfolio.vercel.app)
-
-A deployed personal portfolio built with React and Vite to showcase my skills, selected projects, and contact details.
-
-**Repository:** [My-Portfolio-React](https://github.com/RahulShukla3300/My-Portfolio-React)
-
-**Technologies:** React, Vite, JavaScript, and CSS
-
-### [JavaScript Practice Projects](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project)
-
-A growing collection of hands-on JavaScript projects covering DOM manipulation, event handling, timers, form validation, game logic, and API integration. Weather App v1 is now complete.
-
-Projects include:
-
-- BMI Calculator
-- Bubble Game
-- Calculator
-- Color Switcher
-- Digital Clock
-- Guess the Number
-- Random Password Generator
-- To-Do List
-- Weather App (v1 complete)
-
-**Technologies:** HTML, CSS, and JavaScript
-
-## Current Focus
-
-- Improving my deployed React portfolio v3
-- Building responsive, accessible web interfaces
-- Creating full-stack applications with React.js and Node.js
-- Expanding API integration and database skills
-- Writing cleaner and more maintainable code
-
-## [Connect With Me](https://www.linkedin.com/in/rahul-shuklacse)
-
-I’m always interested in connecting with developers, collaborating on projects, and discussing new opportunities.
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-shuklacse)
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile!
-
-</div>
