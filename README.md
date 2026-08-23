@@ -12,7 +12,7 @@
 
 ## About Me
 
-- 🔭 I’m improving my deployed **React portfolio v3** and polishing completed JavaScript projects, including **Weather App v1**.
+- 🔭 I’m developing **React portfolio v5** and polishing completed JavaScript projects, including **Weather App v1**.
 - 🌱 I’m strengthening my skills in **React.js, Node.js, TypeScript and PostgreSQL**.
 - 💼 I’m open to **React.js and Full-Stack Developer opportunities**.
 - 💬 Ask me about **JavaScript, React.js, Node.js, PHP and web development**.
@@ -37,3 +37,4 @@
 ### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
