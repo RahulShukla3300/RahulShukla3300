@@ -16,7 +16,7 @@
 - 🚀 I built **Portfolio v5**, a responsive React portfolio showcasing **10 GitHub projects** in a compact, auto-scrolling carousel.
 - ✅ I create practical projects covering **DOM manipulation, validation, timers, games, responsive interfaces, and API integration**.
 - 🌱 I’m strengthening my skills in **React.js, Node.js, TypeScript, and PostgreSQL**.
-- 💼 I’m open to **React.js and Full-Stack Developer opportunities**.
+- 💼 I’m open to **React.js and Frontend Developer opportunities**.
 - 💬 Ask me about **JavaScript, React.js, Node.js, PHP, databases, and web development**.
 - ⚡ I believe the best way to learn programming is by building useful products.
 
