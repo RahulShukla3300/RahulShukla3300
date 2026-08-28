@@ -2,7 +2,7 @@
 
 # Hi, I'm Rahul Shukla 👋
 
-### Full-Stack Developer building responsive, reliable, and scalable web applications
+### Frontend Developer building responsive, reliable, and scalable web applications
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://rahulshuklaportfolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-RahulShukla3300-181717?style=for-the-badge&logo=github)](https://github.com/RahulShukla3300)
