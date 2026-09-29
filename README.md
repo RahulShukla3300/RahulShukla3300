@@ -13,12 +13,11 @@
 
 ## About Me
 
-- 🚀 I built **Portfolio v5**, a responsive React portfolio showcasing **10 GitHub projects** in a compact, auto-scrolling carousel.
-- ✅ I create practical projects covering **DOM manipulation, validation, timers, games, responsive interfaces, and API integration**.
-- 🌱 I’m strengthening my skills in **React.js, Node.js, TypeScript, and PostgreSQL**.
-- 💼 I’m open to **React.js and Frontend Developer opportunities**.
-- 💬 Ask me about **JavaScript, React.js, Node.js, PHP, databases, and web development**.
-- ⚡ I believe the best way to learn programming is by building useful products.
+- 👨‍💻 I’m a **Frontend Developer with 2+ years of experience**, contributing to a **School ERP platform serving 6,000+ schools** at Simption Tech.
+- ⚛️ I build responsive interfaces with **React.js, TypeScript, and Redux Toolkit**, from reusable components to complete student management, finance, and admin modules.
+- 🔗 I turn business requirements into functional features through **REST API integration, form validation, and reliable state management**.
+- ⚡ I improve application performance with **lazy loading, code splitting, and image optimization**, and work directly with clients to resolve production issues.
+- 🚀 I showcase my work through my **React portfolio** and am open to **React.js and Frontend Developer opportunities** where I can build useful products.
 
 ## Featured Work
 
